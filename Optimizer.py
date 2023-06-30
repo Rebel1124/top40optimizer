@@ -36,7 +36,7 @@ with header:
     
     #col11, col12 = st.columns(2)
     
-    image = Image.open('arrow.png')   
+    #image = Image.open('arrow.png')   
     
     colb, colc = st.columns([1, 4.5])
     #colb.image(image, use_column_width=True)
