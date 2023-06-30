@@ -5,4 +5,5 @@ Pillow==9.2.0
 plotly==5.10.0
 streamlit==1.11.0
 altair==4.0
-git+https://github.com/raphi6/pandas-datareader.git@ea66d6b981554f9d0262038aef2106dda7138316
+yfinance==0.2.22
+pandas-datareader @ git+https://github.com/raphi6/pandas-datareader.git@ea66d6b981554f9d0262038aef2106dda7138316
